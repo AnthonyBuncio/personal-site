@@ -5,6 +5,8 @@ import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
+const date = new Date().getFullYear();
+
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -24,17 +26,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Anthony. I like building things. I am a{' '}
+        Hi, I&apos;m Anthony. I like building things. I am an{' '}
         <a href="https://www.hccs.edu/">HCC</a> student,{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">
           Iron Yard
         </a>{' '}
-        Alumni, and a self-taught freelance developer. Before Arthena I was at{' '}
-        <a href="https://matroid.com">Matroid</a>,{' '}
-        <a href="https://planet.com">Planet</a>,{' '}
-        <a href="https://planetaryresources.com">Planetary Resources</a>,{' '}
-        <a href="https://facebook.com">Facebook</a>, and{' '}
-        <a href="https://seds.org">SEDS</a>.
+        Coding Bootcamp Alumni, and self-taught freelance developer. Prior to
+        coding, I&apos;ve held several management positions in 🏝Hawaii and
+        🌵Texas.
       </p>
       <ul className="actions">
         <li>
@@ -48,13 +47,18 @@ const SideBar = () => (
             </Link>
           )}
         </li>
+        <li>
+          <Link to="/resume" className="button">
+            Download CV
+          </Link>
+        </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Anthony Buncio <Link to="/">anthonybuncio.com</Link>.
+        &copy; {date} Anthony Buncio <Link to="/">anthonybuncio.com</Link>.
       </p>
     </section>
   </section>
