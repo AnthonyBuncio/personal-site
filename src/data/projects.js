@@ -1,43 +1,43 @@
-// TODO Add a couple lines about each project
+// prettier-ignore
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Collab OS',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    image: '/images/projects/collabos.jpg',
+    date: '2021-08-24',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built to socialize open source repos. CollabOS is a tinder-like swiping app to find others '
+      + 'who are looking to contribute to Github open source projects. I noticed how difficult it was to find '
+      + 'smaller community projects, along with developers who share the same stack knowledge. ',
   },
   {
-    title: 'Harvest',
+    title: 'BFS Training',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Better, Faster, Stronger is a Personal Training application meant for easier communication between trainer and client. '
+      + 'Trainers can add exercises, schedule workouts, and provide nutritional goals for their client through an easy-to-use dashboard. '
+      + 'No longer are you bound to email communication and messy interfaces. ',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    title: 'Fourth QTR',
+    subtitle: 'NBA Scoreboard App for your menu bar.',
     link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    image: '/images/projects/fourthqtr.jpg',
+    date: '2019-03-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'An NBA scoreboard app for the MacOS menu bar, built with ElectronJS. '
+      + 'Upon using, scores are updated every 30 seconds and includes dark mode. '
+      + 'Future updates include adding mutiple sports.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'DevLink',
+    subtitle: 'A social network for developers.',
+    link: 'https://www.devlink-pro.herokuapp.com',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2019-02-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
