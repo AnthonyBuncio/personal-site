@@ -32,8 +32,8 @@ const SideBar = () => (
           Iron Yard
         </a>{' '}
         Coding Bootcamp Alumni, and self-taught freelance developer. Prior to
-        coding, I&apos;ve held several management positions in 🏝Hawaii and
-        🌵Texas.
+        becoming a web developer, I&apos;ve held several management positions in
+        🏝Hawaii and 🤠Texas.
       </p>
       <ul className="actions">
         <li>
