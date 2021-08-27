@@ -48,7 +48,7 @@ const SideBar = () => (
           )}
         </li>
         <li>
-          <Link to="/resume" className="button">
+          <Link to="/" className="button">
             Download CV
           </Link>
         </li>
