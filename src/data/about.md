@@ -1,6 +1,11 @@
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+A progressive web developer with 3+ years of front end and back end experience. As a graduate of The
+Iron Yard Houston, I am proficient in javascript; structuring and developing responsive web apps. Also highly
+skilled in back end development tasks such as 3rd party API implementation, NoSQL databases, and RESTful
+APIs. I am seeking to apply my knowledge and further my career by obtaining a position that offers opportunities
+for professional growth and achievement. My management background makes me a great team member and the
+ability to give or take constructive advice, depending on the needs of any given project.
 
 # Currently
 
