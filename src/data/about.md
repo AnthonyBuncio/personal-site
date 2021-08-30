@@ -9,7 +9,7 @@ ability to give or take constructive advice, depending on the needs of any given
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+I am currently the web developer and graphic designer at CocoLoco LLC. I have learned how to manage people, shape culture, develop relationships with customers, sell small market products, and use best SEO practices to help improve our online presence. I primarily work on product labels and promotional materials, while also performing regular maintenence on our ecommerce websites.
 
 # Some history
 
@@ -48,9 +48,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I like
 
 - Running
-- Skiing
-- Sailing and the sea
-- Space
+- Lifting
+- Playing sports(🏀)
+- Anything tech related
 - Summer
 - [Books](https://www.goodreads.com/mdangelo)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
