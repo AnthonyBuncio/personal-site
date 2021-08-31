@@ -48,7 +48,11 @@ const SideBar = () => (
           )}
         </li>
         <li>
-          <Link to="/" className="button">
+          <Link
+            to={`${PUBLIC_URL}/2021-Resume.pdf`}
+            target="_blank"
+            className="button"
+          >
             Download CV
           </Link>
         </li>
