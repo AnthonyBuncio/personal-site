@@ -28,7 +28,7 @@ const positions = [
     company: 'Artflowmedia',
     position: 'Consultant',
     link: 'http://artflowmedia.org',
-    daterange: 'September 2016 - 2018',
+    daterange: 'December 2019 - January 2020',
     points: [
       'Identified issues with existing website, conducted market research, developed concepts for new site, and gained approval to completely redesign their web presence.',
       'Design, develop, and maintain media production landing page, including content updates, debugging, and feature enhancements.',
@@ -38,7 +38,7 @@ const positions = [
   {
     company: 'BHG Real Estate',
     position: 'Consultant',
-    daterange: 'February 2016 - March 2016',
+    daterange: 'December 2018 - March 2019',
     points: [
       "Develop and optimize real estate website utilizing HTML, CSS, Python, Javascript, Django and Postgres to meet the clients' needs and goals.",
       'Ability for client to add/remove/edit listing information through their own admin dashboard, allowing for full control of all content.',
@@ -48,8 +48,8 @@ const positions = [
   },
   {
     company: 'IDAD Inc.',
-    position: 'Co-founder',
-    daterange: 'July 2015 - January 2016',
+    position: 'Manager / Lead Supervisor',
+    daterange: 'June 2018 - December 2018',
     points: [
       'Improved efficiency of inventory, labor and point-of-sale management using Oracle Micros POS.',
       'Training and developing productive staff while maintaining solid relationships with other management.',
