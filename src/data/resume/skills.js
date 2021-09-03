@@ -24,7 +24,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Tools'],
   },
   {
@@ -39,7 +39,7 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
@@ -49,7 +49,7 @@ const skills = [
   },
   {
     title: 'Express.JS',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
@@ -74,7 +74,7 @@ const skills = [
   },
   {
     title: 'Typescript',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -84,22 +84,22 @@ const skills = [
   },
   {
     title: 'Python',
-    competency: 5,
+    competency: 2,
     category: ['Languages'],
   },
   {
     title: 'C++',
-    competency: 2,
+    competency: 1,
     category: ['Languages'],
   },
   {
     title: 'Data Visualization',
-    competency: 3,
+    competency: 2,
     category: ['Data Science', 'Javascript'],
   },
   {
     title: 'GraphQL',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Databases'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
