@@ -14,7 +14,7 @@ const data = [
     title: 'BFS Training',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/bfs.jpg',
     date: '2015-09-20',
     desc:
       'Better, Faster, Stronger is a Personal Training application meant for easier communication between trainer and client. '
