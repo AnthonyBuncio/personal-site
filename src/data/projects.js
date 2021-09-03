@@ -2,17 +2,18 @@
 const data = [
   {
     title: 'Collab OS',
-    subtitle: '2015 BVP Hackathon',
+    subtitle: 'Github Collaboration iOS App for open source Github projects.',
     image: '/images/projects/collabos.jpg',
     date: '2021-08-24',
     desc:
       'Built to socialize open source repos. CollabOS is a tinder-like swiping app to find others '
       + 'who are looking to contribute to Github open source projects. I noticed how difficult it was to find '
-      + 'smaller community projects, along with developers who share the same stack knowledge. ',
+      + 'smaller community projects, along with developers who share the same stack knowledge so I built CollabOS for '
+      + 'developers of any level to gain collaboration experience.',
   },
   {
     title: 'BFS Training',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    subtitle: 'Trainer-to-client workout and nutrition goals.',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/bfs.jpg',
     date: '2015-09-20',
@@ -24,7 +25,7 @@ const data = [
   {
     title: 'Fourth QTR',
     subtitle: 'NBA Scoreboard App for your menu bar.',
-    link: 'http://www.spacepotato.org',
+    link: 'https://www.4thquarter.app',
     image: '/images/projects/fourthqtr.jpg',
     date: '2019-03-28',
     desc:
@@ -36,12 +37,11 @@ const data = [
     title: 'DevLink',
     subtitle: 'A social network for developers.',
     link: 'https://www.devlink-pro.herokuapp.com',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/devlink.jpg',
     date: '2019-02-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Facebook for devs. A social network for developers to engage with each other. '
+      + 'Includes user authentication and messaging.',
   },
 ];
 
