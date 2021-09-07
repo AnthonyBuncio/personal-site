@@ -14,7 +14,6 @@ const data = [
   {
     title: 'BFS Training',
     subtitle: 'Trainer-to-client workout and nutrition goals.',
-    link: 'https://devpost.com/software/harvest',
     image: '/images/projects/bfs.jpg',
     date: '2015-09-20',
     desc:
