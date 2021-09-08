@@ -51,7 +51,7 @@ const SideBar = () => (
         </li>
         <li>
           <Link
-            to={`${PUBLIC_URL}/2021-Resume.pdf`}
+            to={`${PUBLIC_URL}/Anthony Buncio Resume.pdf`}
             target="_blank"
             className="button"
           >
