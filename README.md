@@ -1,6 +1,6 @@
 # Personal Website
 
-See: [mldangelo.com](https://anthonybuncio.com).
+See: [anthonybuncio.com](https://anthonybuncio.com).
 
 My personal website. An MIT licensed, simple, easily modifiable, statically-exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) application that deploys automatically for free using [github pages](https://pages.github.com/). Built using modern javascript, based on [create-react-app](https://github.com/facebook/create-react-app) with [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), and many other useful technologies.
 
@@ -13,7 +13,7 @@ Tested with: [node](https://nodejs.org/) >= v12 and optional [nvm](https://githu
 To download the repository and install dependencies, run the following commands:
 
 ```bash
-git clone git://github.com/anthonybuncio/personal-site.git # replace [mldangelo] with your github username if you fork first.
+git clone git://github.com/anthonybuncio/personal-site.git # replace [anthonybuncio] with your github username if you fork first.
 cd personal-site
 nvm install # this is optional - make sure you're running >= node 12 with `node --version`
 npm install
