@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'CocoLoco LLC',
-    position: 'Web Developer / Graphic Design',
+    position: 'Web Developer / Graphic Designer',
     link: 'https://cocolococolorado.com',
     daterange: 'February 2021 - Present',
     points: [
