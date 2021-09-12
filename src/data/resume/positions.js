@@ -38,6 +38,7 @@ const positions = [
   {
     company: 'BHG Real Estate',
     position: 'Consultant',
+    link: 'https://www.bhgre.com/',
     daterange: 'December 2018 - March 2019',
     points: [
       "Develop and optimize real estate website utilizing HTML, CSS, Python, Javascript, Django and Postgres to meet the clients' needs and goals.",
@@ -49,6 +50,7 @@ const positions = [
   {
     company: 'IDAD Inc.',
     position: 'Manager / Lead Supervisor',
+    link: '',
     daterange: 'June 2018 - December 2018',
     points: [
       'Improved efficiency of inventory, labor and point-of-sale management using Oracle Micros POS.',
