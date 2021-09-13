@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Resume from '../../files/Anthony Buncio Resume.pdf';
 
 import ContactIcons from '../Contact/ContactIcons';
 
@@ -51,7 +50,11 @@ const SideBar = () => (
           )}
         </li>
         <li>
-          <Link to={Resume} target="_blank" className="button">
+          <Link
+            to={`${PUBLIC_URL}/images/Anthony Buncio Resume.pdf`}
+            target="_blank"
+            className="button"
+          >
             Download CV
           </Link>
         </li>
