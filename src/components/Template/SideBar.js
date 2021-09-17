@@ -49,7 +49,7 @@ const SideBar = () => (
             </Link>
           )}
         </li>
-        <li>
+        {/* <li>
           <Link
             to={`${PUBLIC_URL}/images/AnthonyBuncio-Resume.pdf`}
             target="_blank"
@@ -57,7 +57,7 @@ const SideBar = () => (
           >
             Download CV
           </Link>
-        </li>
+        </li> */}
       </ul>
     </section>
 
