@@ -33,7 +33,7 @@ const SideBar = () => (
         </a>{' '}
         Coding Bootcamp Alumni, and self-taught freelance developer. Prior to
         becoming a web developer, I&apos;ve held several management positions in
-        🏝Hawaii and 🤠Texas. Currently the lead developer for{' '}
+        Hawaii and Texas. Currently the lead developer for{' '}
         <a href="https://www.cocolococolorado.com/">Coco Loco</a> and{' '}
         <a href="https://www.simplyhempwellness.com/">Simply Hemp Wellness</a>.
       </p>

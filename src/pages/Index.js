@@ -11,19 +11,15 @@ const Index = () => (
           <h2 data-testid="heading">
             <Link to="/">My Portfolio</Link>
           </h2>
-          <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
-          </p>
+          <p>Welcome to the jungle 🦍🦧🐒</p>
         </div>
       </header>
       <p>
         {' '}
-        Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
-        <Link to="/contact">contact</Link> me.
+        Please feel free to read more <Link to="/about">about me</Link>, or you
+        can check out my <Link to="/resume">resume</Link>, view my{' '}
+        <Link to="/projects">projects</Link>, or{' '}
+        <Link to="/contact">contact</Link> ya boy.
       </p>
       <p>
         {' '}
