@@ -9,15 +9,15 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="/">My Portfolio</Link>
+            <Link to="/">My Portfolio👨🏾‍💻</Link>
           </h2>
-          <p>Welcome to the jungle 🦍🦧🐒</p>
+          <p>WHERE CODE HAPPENS..</p>
         </div>
       </header>
       <p>
         {' '}
-        Please feel free to read more <Link to="/about">about me</Link>, or you
-        can check out my <Link to="/resume">resume</Link>, view my{' '}
+        Please feel free to read more <Link to="/about">about me</Link>, check
+        out my <Link to="/resume">resume</Link>, view my{' '}
         <Link to="/projects">projects</Link>, or{' '}
         <Link to="/contact">contact</Link> ya boy.
       </p>
