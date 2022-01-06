@@ -22,9 +22,9 @@ const data = [
       + 'No longer are you bound to email communication and messy interfaces. ',
   },
   {
-    title: 'Fourth QTR',
+    title: 'Run It 🆙',
     subtitle: 'NBA Scoreboard App for your menu bar.',
-    link: 'https://www.4thquarter.app',
+    link: 'https://www.anthony.wiki/apps/run-it-up',
     image: '/images/projects/fourthqtr.jpg',
     date: '2019-03-28',
     desc:
