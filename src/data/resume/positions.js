@@ -1,10 +1,22 @@
 const positions = [
   {
+    company: 'Eybl Digital',
+    position: 'Founder',
+    link: 'http://eybldigital.com',
+    daterange: 'February 2022 - Present',
+    points: [
+      'Identified issues with existing website, conducted market research, developed concepts for new site, and gained approval to create or completely redesign clients web presence.',
+      'Designed, developed, and maintained clients’ website, including content updates, debugging, and feature enhancements.',
+      'Performed unit testing to ensure optimal browser interpretation and functionality.',
+    ],
+  },
+  {
     company: 'CocoLoco LLC',
     position: 'Web Developer / Graphic Designer',
     link: 'https://cocolococolorado.com',
     daterange: 'February 2021 - Present',
     points: [
+      'Improved and maintained the existing website as well as increased traffic to the site.',
       'Design and marketing materials development; enhancing our brand presence (flyers, web banners, infographics, pricing line-sheets, etc.)',
       "Prepared illustrations and proofs of brand labels, based on clients' desired color scheme and preference.",
       'Scheduled monthly updates and maintenence to keep client site up-to-date',
@@ -24,17 +36,7 @@ const positions = [
       'Provide quarterly campaign performance reporting and analysis to clients.',
     ],
   },
-  {
-    company: 'Artflowmedia',
-    position: 'Consultant',
-    link: 'http://artflowmedia.org',
-    daterange: 'December 2019 - January 2020',
-    points: [
-      'Identified issues with existing website, conducted market research, developed concepts for new site, and gained approval to completely redesign their web presence.',
-      'Design, develop, and maintain media production landing page, including content updates, debugging, and feature enhancements.',
-      'Performed unit testing to ensure optimal browser interpretation and functionality.',
-    ],
-  },
+
   {
     company: 'BHG Real Estate',
     position: 'Consultant',

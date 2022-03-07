@@ -1,6 +1,16 @@
 // prettier-ignore
 const data = [
   {
+    title: 'Ready, Set, STEM',
+    subtitle: '2022 NASA Hackathon Submission',
+    link: 'https://jsc-hackathon.vercel.app/',
+    image: '/images/projects/jsc.jpg',
+    date: '2022-01-30',
+    desc:
+      'Final submission for JSC NASA Hackathon 2022. Inspired to improve accessibility and inclusivity at NASA, '
+      + 'we created a three-step strategy that will increase the number of children entering into the STEM pipeline using subjective teaching methodologies.',
+  },
+  {
     title: 'Collab OS',
     subtitle: 'Github Collaboration iOS App for open source Github projects.',
     image: '/images/projects/collabos.jpg',
@@ -10,16 +20,6 @@ const data = [
       + 'who are looking to contribute to Github open source projects. I noticed how difficult it was to find '
       + 'smaller community projects, along with developers who share the same stack knowledge so I built CollabOS for '
       + 'developers of any level to gain collaboration experience.',
-  },
-  {
-    title: 'BFS Training',
-    subtitle: 'Trainer-to-client workout and nutrition goals.',
-    image: '/images/projects/bfs.jpg',
-    date: '2015-09-20',
-    desc:
-      'Better, Faster, Stronger is a Personal Training application meant for easier communication between trainer and client. '
-      + 'Trainers can add exercises, schedule workouts, and provide nutritional goals for their client through an easy-to-use dashboard. '
-      + 'No longer are you bound to email communication and messy interfaces. ',
   },
   {
     title: 'Run It 🆙',

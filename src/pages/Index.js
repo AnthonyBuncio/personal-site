@@ -19,7 +19,7 @@ const Index = () => (
         Please feel free to read more <Link to="/about">about me</Link>, check
         out my <Link to="/resume">resume</Link>, view my{' '}
         <Link to="/projects">projects</Link>, or{' '}
-        <Link to="/contact">contact</Link> ya boy.
+        <Link to="/contact">contact</Link> me.
       </p>
       <p>
         {' '}
