@@ -9,12 +9,14 @@ ability to give or take constructive advice, depending on the needs of any given
 
 # Currently
 
-I am currently the web developer and graphic designer at CocoLoco LLC. I have learned how to manage people, shape culture, develop relationships with customers, sell small market products, and use best SEO practices to help improve our online presence. I primarily work on product labels and promotional materials, while also performing regular maintenence on our ecommerce websites.
+<!-- I am currently the web developer and graphic designer at CocoLoco LLC. I have learned how to manage people, shape culture, develop relationships with customers, sell small market products, and use best SEO practices to help improve our online presence. I primarily work on product labels and promotional materials, while also performing regular maintenence on our ecommerce websites. -->
+
+I am currently a Full Stack Engineer (Data & Analytics) at Lottery.com.
 
 # I like
 
 - Running
-- Lifting
+- Working out
 - Playing sports(🏀)
 - Anything tech related
 - Summer

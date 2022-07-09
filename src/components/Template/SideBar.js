@@ -26,16 +26,19 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Anthony. I like building things. I am an{' '}
-        <a href="https://www.hccs.edu/">HCC</a> student,{' '}
+        Hi, I&apos;m Anthony. I like building things. I am a self-taught
+        software engineer, freelance web developer, and{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">
           Iron Yard
         </a>{' '}
-        Coding Bootcamp Alumni, and self-taught freelance developer. Prior to
-        becoming a web developer, I&apos;ve held several management positions in
-        Hawaii and Texas. Currently the lead developer for{' '}
-        <a href="https://www.cocolococolorado.com/">Coco Loco</a> and{' '}
-        <a href="https://www.simplyhempwellness.com/">Simply Hemp Wellness</a>.
+        Coding Bootcamp Alumni. Prior to becoming a software engineer, I&apos;ve
+        held several management positions in Hawaii and Texas. Currently working
+        as a{' '}
+        <span>
+          Full Stack Data & Analytics Engineer for{' '}
+          <a href="https://www.lottery.com/">Lottery.com</a>
+        </span>
+        .
       </p>
       <ul className="actions">
         <li>
@@ -63,9 +66,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">
-        &copy; {date} Anthony Buncio <Link to="/">anthonybuncio.com</Link>.
-      </p>
+      <p className="copyright">&copy; {date} Anthony Buncio.</p>
     </section>
   </section>
 );
