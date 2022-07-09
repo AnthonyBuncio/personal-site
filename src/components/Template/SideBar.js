@@ -27,7 +27,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Anthony. I like building things. I am a self-taught
-        software engineer, freelance web developer, and{' '}
+        software engineer, web developer, and{' '}
         <a href="https://www.coursereport.com/schools/the-iron-yard">
           Iron Yard
         </a>{' '}
